@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b41faac-5c2e-4fa0-a133-6d2593da3730" name="Changes" comment="remove ideacraft">
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+    <list default="true" id="9b41faac-5c2e-4fa0-a133-6d2593da3730" name="Changes" comment="remove">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/programmers/date_20250507/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/programmers/date_20250514/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/date_20250507/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/date_20250507/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qookqook" beforeDir="false" afterPath="$PROJECT_DIR$/../qookqook" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +40,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Workspace/practice",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -86,7 +85,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746350847908</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="remove">
+      <option name="closed" value="true" />
+      <created>1746351631751</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746351631751</updated>
+    </task>
+    <task id="LOCAL-00003" summary="remove">
+      <option name="closed" value="true" />
+      <created>1746351696317</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746351696317</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +127,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="remove ideacraft" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove ideacraft" />
+    <MESSAGE value="remove" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove" />
   </component>
 </project>
